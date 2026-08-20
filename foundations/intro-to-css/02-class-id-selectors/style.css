@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.oddnum {
+    background-color: lightpink;
+    font-family: 'Verdana,DejaVu Sans',sans-serif;
+}/* Add CSS Styling */
+#even{
+    color: blue;
+    font-size: 36px;
+}
+.oddnum.cool{
+    font-size: 24px;
+}
+#evennum{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
