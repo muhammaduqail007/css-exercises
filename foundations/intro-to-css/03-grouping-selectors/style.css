@@ -1,1 +1,12 @@
-/* Add CSS Styling */
+.buton{
+    font-size: 36px;
+    font-family: 'Helvetica','Times New Roman',sans-serif;
+}
+.buton.one{
+    color: white;
+    background-color: black;
+}
+.buton.two{
+    background-color: yellow;
+
+}
